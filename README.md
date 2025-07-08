@@ -18,3 +18,5 @@ DOI: [10.5281/zenodo.15569988](https://doi.org/10.5281/zenodo.15569988)
 This project is protected under an exclusive license issued by the author.  
 No part of it may be used or reproduced without prior written permission.  
 Please refer to the full license document: [AURORA_License.pdf](./AURORA_License.pdf)
+
+🔐 License: See [AURORA_GENERAL_LICENSE.pdf](https://github.com/mostafaabdelsamee/AURORA-INITIATIVE-_-Egypt-/releases/download/v1.0/AURORA_GENERAL_LICENSE.pdf)
