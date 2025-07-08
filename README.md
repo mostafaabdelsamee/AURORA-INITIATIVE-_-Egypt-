@@ -17,4 +17,4 @@ DOI: [10.5281/zenodo.15569988](https://doi.org/10.5281/zenodo.15569988)
 ## License Notice  
 This project is protected under an exclusive license issued by the author.  
 No part of it may be used or reproduced without prior written permission.  
-Please refer to the full license document: [AURORA_License.pdf](./AURORA_License.pdf)
+Please refer to the full license document: [AURORA_License.pdf](./10_AURORA_License.pdf)
