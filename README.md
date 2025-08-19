@@ -5,8 +5,7 @@ The Aurora Initiative is a multi-phase research project developing an innovative
 
 ## Author and Affiliation  
 **Arthur Mostafa Abdelsamie**  
-Aurora Initiative Egypt  
-ORCID: [0000-0003-4309-0483](https://orcid.org/0000-0003-4309-0483)  
+Aurora Initiative Egypt   
 DOI: [10.5281/zenodo.15569988](https://doi.org/10.5281/zenodo.15569988)
 
 ## Repository Structure  
